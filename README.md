@@ -1,11 +1,28 @@
-<h1 align="center">Hola 👋 Soy Abigail Contreras</h1> <h3 align="center"
->Una apasionada desarrolladora full stack enfocada en proyectos Backend</h3>
+# 👩‍💻 Abigail Contreras | Full Stack Developer 🌐
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/contrerasabi278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/contrerasabi278/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hadaabigail27/profilecard/?igsh=a2m3bgdmngrpehd3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hadaabigail27/profilecard/?igsh=a2m3bgdmngrpehd3" height="30" width="40" /></a>
-</p>
+¡Hola! 👋 Soy **Abigail Contreras**, una apasionada **Full Stack Developer** y **Ingeniera de Sistemas** con experiencia en el desarrollo de soluciones backend robustas y escalables. 🚀 Mi enfoque principal está en construir sistemas eficientes y bien estructurados que solucionen problemas reales. 
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" ancho="40" alto="40"/> </a> <a href="https://www.linux.org/" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" ancho="40" alto="40"/> </a> <a href="https://www.mongodb.com/" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" Español: ancho="40" alto="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" ancho="40" alto="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.es/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" ancho="40" alto="40"/> </a> <a href="https://www.postgresql.org" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" ancho="40" alto="40"/> </a> <a href="https://reactjs.org/" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" ancho="40" alto="40"/> </a> </p>githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" ancho="40" alto="40"/> </a> </p>
+## 🛠️ Tecnologías y habilidades principales:
+- **Lenguajes y frameworks:**  
+  - 🟡 JavaScript | ⚡ TypeScript  
+  - 🛠️ ReactJS | ExpressJS | NestJS  
+  - 🌟 Node.js  
+- **Bases de datos:**  
+  - 🐘 PostgreSQL | 🍃 MongoDB  
+- **Herramientas de desarrollo frontend:**  
+  - 🖌️ HTML5 | CSS3 | Bootstrap | Webpack  
+- **Entornos:**  
+  - 🐧 Linux  
+
+## 📈 Mi enfoque:
+- 🏗️ Diseño y desarrollo de APIs eficientes y seguras.  
+- 📦 Implementación de arquitecturas modulares en backend con **Node.js** y **NestJS**.  
+- 🌍 Desarrollo de aplicaciones frontend interactivas con **ReactJS**.  
+- 🗄️ Gestión y optimización de bases de datos relacionales y no relacionales.  
+
+## 📲 Conecta conmigo:
+- 🌐 **LinkedIn:** [Abigail Contreras](https://www.linkedin.com/in/contrerasabi278/)  
+- 📷 **Instagram:** [@hadaabigail27](https://www.instagram.com/hadaabigail27/profilecard/?igsh=a2m3bgdmngrpehd3)  
+- 📞 **Teléfono:** [+57 310 620 3267](tel:+573106203267)  
+
+¡Estoy abierta a nuevas oportunidades y desafíos! 🎯 Contáctame para construir algo increíble juntos. 💡
