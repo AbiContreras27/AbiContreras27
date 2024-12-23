@@ -12,7 +12,7 @@
 - **Herramientas de desarrollo frontend:**  
   - 🖌️ HTML5 | CSS3 | Bootstrap | Webpack  
 - **Entornos:**  
-  - 🐧 Linux  
+  - 🐧 Linux | 🪟 Windows  
 
 ## 📈 Mi enfoque:
 - 🏗️ Diseño y desarrollo de APIs eficientes y seguras.  
@@ -26,3 +26,4 @@
 - 📞 **Teléfono:** [+57 310 620 3267](tel:+573106203267)  
 
 ¡Estoy abierta a nuevas oportunidades y desafíos! 🎯 Contáctame para construir algo increíble juntos. 💡
+
