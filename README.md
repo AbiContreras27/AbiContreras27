@@ -24,7 +24,7 @@
 - 🌐 **LinkedIn:** [Abigail Contreras](https://www.linkedin.com/in/contrerasabi278/)  
 - 📷 **Instagram:** [@hadaabigail27](https://www.instagram.com/hadaabigail27/profilecard/?igsh=a2m3bgdmngrpehd3)  
 - 📞 **Teléfono:** [+57 310 620 3267](tel:+573106203267)
-- 💼 **Portfolio**  https://portfolio-dkatz7vgi-abicontreras278s-projects.vercel.app/
+- 💼 **Portfolio**  https://portfolio-abicontreras278s-projects.vercel.app/ 
 
 ¡Estoy abierta a nuevas oportunidades y desafíos! 🎯 Contáctame para construir algo increíble juntos. 💡
 
